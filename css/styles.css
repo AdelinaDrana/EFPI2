@@ -1,0 +1,9 @@
+.golden-button {
+    background-color: #D4AF37; /* Color dorado */
+    color: #FFFFFF; /* Texto blanco */
+    padding: 10px 20px; /* Ajusta el espaciado según tus preferencias */
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px; /* Bordes redondeados */
+    /* Otros estilos según tu diseño... */
+  }
